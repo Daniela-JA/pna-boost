@@ -1,0 +1,78 @@
+{
+  "year": 2025,
+  "source": "ACSS — colocação PNA (dados ilustrativos; substituir pelos oficiais)",
+  "nCandidates": 2100,
+  "scoreToPercentile": [
+    {"score": 0, "percentile": 0},
+    {"score": 30, "percentile": 5},
+    {"score": 45, "percentile": 15},
+    {"score": 55, "percentile": 30},
+    {"score": 65, "percentile": 45},
+    {"score": 75, "percentile": 60},
+    {"score": 85, "percentile": 75},
+    {"score": 95, "percentile": 85},
+    {"score": 105, "percentile": 92},
+    {"score": 115, "percentile": 96},
+    {"score": 125, "percentile": 98},
+    {"score": 135, "percentile": 99},
+    {"score": 150, "percentile": 100}
+  ],
+  "specialties": [
+    {
+      "name": "Medicina Geral e Familiar",
+      "lastPlacedScore": 62,
+      "lastPlacedRank": 1400,
+      "vagas": 420,
+      "hospitals": ["ARS Norte", "ARS Centro", "ARS LVT"]
+    },
+    {
+      "name": "Medicina Interna",
+      "lastPlacedScore": 88,
+      "lastPlacedRank": 650,
+      "vagas": 95,
+      "hospitals": ["CHULN", "CHUC", "CHUSJ"]
+    },
+    {
+      "name": "Pediatria",
+      "lastPlacedScore": 102,
+      "lastPlacedRank": 320,
+      "vagas": 40,
+      "hospitals": ["HDE", "CHUC", "CHSJ"]
+    },
+    {
+      "name": "Ginecologia/Obstetrícia",
+      "lastPlacedScore": 98,
+      "lastPlacedRank": 380,
+      "vagas": 35,
+      "hospitals": ["CHLN", "CHUC"]
+    },
+    {
+      "name": "Cirurgia Geral",
+      "lastPlacedScore": 108,
+      "lastPlacedRank": 220,
+      "vagas": 28,
+      "hospitals": ["CHULN", "CHSJ"]
+    },
+    {
+      "name": "Psiquiatria",
+      "lastPlacedScore": 78,
+      "lastPlacedRank": 900,
+      "vagas": 55,
+      "hospitals": ["HMagalhães Lemos", "CHPL"]
+    },
+    {
+      "name": "Cardiologia",
+      "lastPlacedScore": 122,
+      "lastPlacedRank": 90,
+      "vagas": 12,
+      "hospitals": ["CHULN", "CHUC"]
+    },
+    {
+      "name": "Dermatologia",
+      "lastPlacedScore": 128,
+      "lastPlacedRank": 55,
+      "vagas": 8,
+      "hospitals": ["CHULN"]
+    }
+  ]
+}
